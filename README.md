@@ -1,12 +1,12 @@
 # 🌳 Os Guardiões da Floresta — DEMO
 
-**Projeto de Extensão Escolar — SENAI Félix Guisard | 2024**  
+**Projeto de Extensão Acadêmico  — SENAI Félix Guisard | 2024**  
 
 ---
 
 ## 📌 Sobre o Projeto
 
-**Os Guardiões da Floresta** é um projeto de jogo folclórico desenvolvido como extensão na Escola SENAI Félix Guisard em 2024. O objetivo do game é destacar a cultura dos **Ribeirinhos da Amazônia**, um grupo brasileiro ainda pouco representado, e conscientizar os jogadores sobre a prevenção de queimadas e a importância da educação ambiental.
+**Os Guardiões da Floresta** é um projeto de jogo folclórico desenvolvido como extensão na Escola e Faculdade SENAI Félix Guisard em 2024. O objetivo do game é destacar a cultura dos **Ribeirinhos da Amazônia**, um grupo brasileiro ainda pouco representado, e conscientizar os jogadores sobre a prevenção de queimadas e a importância da educação ambiental.
 
 No jogo você controla Noah, eu garoto destemido que quer salvar a floresta e com a ajuda de personagens do folclore brasileiro que se tornam protetores da floresta, combatendo incêndios e preservando o meio ambiente.
 
